@@ -1,0 +1,4 @@
+subject,image,label,dataset
+DUKE_001,./data/dataset/DUKE/DUKE_001/DUKE_001_0000.nii.gz,./data/dataset/DUKE/DUKE_001/DUKE_001_BreastSeg.nii.gz,DUKE
+DUKE_002,./data/dataset/DUKE/DUKE_002/DUKE_002_0000.nii.gz,./data/dataset/DUKE/DUKE_002/DUKE_002_BreastSeg.nii.gz,DUKE
+DUKE_005,./data/dataset/DUKE/DUKE_005/DUKE_005_0000.nii.gz,./data/dataset/DUKE/DUKE_005/DUKE_005_BreastSeg.nii.gz,DUKE
