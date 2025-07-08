@@ -11,6 +11,7 @@ This repository contains a deep learning model for the segmentation of breast ti
 - [Results](#results)
 - [How to Use](#how-to-use)
 - [References](#references)
+- [Contact](#contact)
 
 ## Dataset
 
@@ -90,6 +91,7 @@ Where **A** is the set of predicted pixels, and **B** is the set of ground truth
 |<b>Overall</b>|<b>0.881</b>|
 
 ## How to Use
+
 Create a new virtual environment (Python=3.9) and install the requirements as stated in [requirements.txt](./requirements.txt) via
 ```bash
 pip install -r requirements.txt
@@ -130,7 +132,18 @@ python main.py
 ```
 
 
+
 ## References
 
 - **MAMA-MIA dataset**: [https://github.com/LidiaGarrucho/MAMA-MIA]
 - **3D-Breast-FGT-and-Blood-Vessel-Segmentation**: [https://github.com/mazurowski-lab/3D-Breast-FGT-and-Blood-Vessel-Segmentation]
+
+
+If you use this code or the model in your research, please cite the following:
+ 
+`````
+@article{coming soon}
+`````
+
+## Contact
+Feel free to reach out for inquiries at: [floblackjohn@gmail.com](mailto:floblackjohn@gmail.com) 
