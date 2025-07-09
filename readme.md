@@ -71,6 +71,7 @@ python main.py
 The training script utilizes callbacks for model checkpointing, early stopping, and GradCAM visualization.
 
 ## Results
+![MRI slice scrolling with overlayed mask](images/segmentation.gif)
 
 Model performance was evaluated using **DICE coefficient** (DICE score) on the initially set-aside validation set (see [Dataset](#dataset)). The DICE score is calculated as:
 
