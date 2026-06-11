@@ -140,11 +140,5 @@ python main.py
 - **3D-Breast-FGT-and-Blood-Vessel-Segmentation**: [https://github.com/mazurowski-lab/3D-Breast-FGT-and-Blood-Vessel-Segmentation]
 
 
-If you use this code or the model in your research, please cite the following:
- 
-`````
-@article{coming soon}
-`````
-
 ## Contact
 Feel free to reach out for inquiries at: [floblackjohn@gmail.com](mailto:floblackjohn@gmail.com) 
